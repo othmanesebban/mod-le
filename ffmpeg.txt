@@ -1,0 +1,7 @@
+commande: ffmpeg -i C:\Users\PRO\Desktop\yolo_video\sample1.mp4 -vf "scale=320:240,fps=25" C:\Users\PRO\Desktop\yolo_video/c01_%04d.jpg
+code source:
+https://www.bogotobogo.com/FFMpeg/ffmpeg_thumbnails_select_scene_iframe.php
+http://zulko.github.io/blog/2013/09/27/read-and-write-video-frames-in-python-using-ffmpeg/
+https://github.com/kkroening/ffmpeg-python/blob/master/examples/ffmpeg-numpy.ipynb
+Ffmpeg extract image python sur google
+https://ios.develop-bugs.com/article/21885278/ffmpeg+keyframe+extraction
